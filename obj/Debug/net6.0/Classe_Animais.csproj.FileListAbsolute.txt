@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\bin\Debug\net6.0\Classe_Animais.exe
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\bin\Debug\net6.0\Classe_Animais.deps.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\bin\Debug\net6.0\Classe_Animais.runtimeconfig.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\bin\Debug\net6.0\Classe_Animais.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\bin\Debug\net6.0\Classe_Animais.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\refint\Classe_Animais.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\Classe_Animais.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Classe_Animais\obj\Debug\net6.0\ref\Classe_Animais.dll
